@@ -12,7 +12,7 @@ Clone this repository to your computer via the CLI (cmd or terminal):
 * Add your name below to the README.md file
 
 # [--------------->>>
-# [ MY NAME IS : .........
+# [ MY NAME IS : Jacques Raaijmakers
 # [ --------------<<<
 
 * Commit your changes in the terminal (!) with the following commands:
